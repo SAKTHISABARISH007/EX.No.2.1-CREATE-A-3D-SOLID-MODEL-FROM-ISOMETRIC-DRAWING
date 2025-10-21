@@ -1,3 +1,4 @@
+[EXP-2.1 VIEWS.pdf](https://github.com/user-attachments/files/23027237/EXP-2.1.VIEWS.pdf)
 # EX.No.2.1  CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
 ## Date:
 
